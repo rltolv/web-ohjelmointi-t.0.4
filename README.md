@@ -1,1 +1,1 @@
-Mermaid sekvenssikaavio -tiedostossa on koodi sekvenssikaavioon, jossa näkyy palvelimessa tapahtuvat muutokset kun muistiinpanoja lisätään. Lisäksi liitin kuvan sekvenssikaaviosta demonstroimaan koodia.
+Tässä repossa on vastaukset tehtäviin 0.4-0.6. Jokaisesta on erikseen Mermaid koodi, ja lisäksi kuva demonstroimaan koodia. Lisäksi repossa on yksi tiedosto, jota ei tarvitse avata, en vaan saanut sitä jostain syystä enää poistettua.
